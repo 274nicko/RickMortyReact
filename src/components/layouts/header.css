@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-image: url(./images/header.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+	height:14rem;
+	width: 100%;
+	position: absolute;
+}
+
+.all{
+    display: flex;
+}
