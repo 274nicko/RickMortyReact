@@ -37,8 +37,8 @@ body{
 }
 
 .rick{
-    width: 40px;
-    height: 40px;
+    width: 65px;
+    height: 65px;
 }
 
 .all{
@@ -48,6 +48,7 @@ body{
 }
 
 #input{
-    width: 200px;
-    height: 20px;
+    width: 15rem;
+    height: 2rem;
+    border-radius: 5px;
 }
